@@ -1,0 +1,12 @@
+{
+  "bot_token": "8879504099:AAHUvBpl8VdmcYImoRFCeFBBH4p4OvHnL2I",
+  "admin_ids": [8575238874],
+  "channel_username": "zyrech",
+  "locked": false,
+  "global_limit": null,
+  "vip_limit": null,
+  "default_threads": 5,
+  "max_concurrent": 30,
+  "cooldown_sessions": null,
+  "cooldown_minutes": 30
+}

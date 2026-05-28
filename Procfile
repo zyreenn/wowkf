@@ -1,0 +1,1 @@
+worker: python botv1.py
